@@ -4,4 +4,5 @@
 </div>
 <div id="description" align="center">
   <img src=https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png width="20"/>
+  <h2>Python developer</h2>
 </div>

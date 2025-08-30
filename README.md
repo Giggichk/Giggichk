@@ -4,7 +4,6 @@
 </div>
 <div id="description" align="center">
   <p>
-    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python logo" width="40"/>
-    <b style="font-size:20px;">Python developer</b>
+   <img alt="Static Badge" src="https://img.shields.io/badge/Python%20developer-%231a1a1a?style=flat">
   </p>
 </div>

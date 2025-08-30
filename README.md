@@ -4,7 +4,7 @@
 </div>
 <div id="description" align="center">
  <p>
-    <b style="font-size:20px;">Python developer</b>
+    <b style="font-size:20px;">💻Python developer</b>
   </p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> 
 </div>

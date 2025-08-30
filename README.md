@@ -4,8 +4,7 @@
 </div>
 <div id="description" align="center">
   <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
     <b style="font-size:20px;">Python developer</b>
   </p>
- <img src="https://img3.akspic.ru/previews/0/9/2/3/6/163290/163290-logotip_python-piton-ikona-algoritmicheskij_yazyk-logo-x750.jpg" alt="Python logo" width="100"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
 </div>

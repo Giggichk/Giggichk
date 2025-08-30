@@ -6,5 +6,6 @@
   <p>
     <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python logo" width="40"/>
     <b style="font-size:20px;">Python developer</b>
+    <img src="https://ibb.co/n853CKWC"/>
   </p>
 </div>

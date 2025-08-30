@@ -5,7 +5,6 @@
 <div id="description" align="center">
   <p>
     <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python logo" width="40"/>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Python%20developer?style=plastic&color=green">
     <b style="font-size:20px;">Python developer</b>
   </p>
 </div>

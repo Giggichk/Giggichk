@@ -4,7 +4,7 @@
 </div>
 <div id="description" align="center">
 <p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python logo" width="40"/>
+  <img src="C:\Users\user\Downloads\pngegg.png" alt="Python logo" width="40"/>
   <b>Python developer</b>
 </p>
 </div>

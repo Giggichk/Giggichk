@@ -3,8 +3,8 @@
   <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c2NHMzNGhhbThwejZkMDAwN2E2cGYwOGk3eGRpN2s5N2w3dzNociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwqrNt7rd9yuj7O/giphy.gif width="100"/>
 </div>
 <div id="description" align="center">
-  <h4 align="center">
-   <img src=https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png width="40"/>
-   Python developer
-  </h4>
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python logo" width="40"/>
+  <b>Python developer</b>
+</p>
 </div>

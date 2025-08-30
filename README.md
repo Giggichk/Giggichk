@@ -1,7 +1,5 @@
-## Hi there 👋
+
 <div id="header" align="center">
-  <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c2NHMzNGhhbThwejZkMDAwN2E2cGYwOGk3eGRpN2s5N2w3dzNociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwqrNt7rd9yuj7O/giphy.gif width="100"/>
+  <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c2NHMzNGhhbThwejZkMDAwN2E2cGYwOGk3eGRpN2s5N2w3dzNociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwqrNt7rd9yuj7O/giphy.gif width="100" border-radius=50%/>
 </div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giggichk&layout=compact&theme=tokyonight)

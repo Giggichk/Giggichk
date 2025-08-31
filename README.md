@@ -20,10 +20,10 @@
 <div aligh="center">
   <img align="left" src="out.gif" width=350, height=200/>
   <b>
-     &lt;------------ Python 
+     &lt; Python 
   </b><br>
   <b align="right">
-    --------- Telegram bots ------&gt;
+    Telegram bots &gt;
   </b>
       <img align="right" src="out1.gif" width=350, height=200 />
 </div>

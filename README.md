@@ -8,7 +8,7 @@
   </p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> 
 </div>
-<div>
+<div align="center">
  <p>👋 Привет! Я Олег (aka Giggichk)
 
 💻 Python-разработчик | Back-end разработчик | Создатель Telegram-ботов

@@ -23,7 +23,7 @@
      &lt;Python 
   </b><br>
   <b align="right">
-    Telegram bots&gt;
+    Telegram bot&gt;
   </b>
       <img align="right" src="out1.gif" width=350, height=200 />
 </div>

@@ -14,5 +14,10 @@
 </div>
 <div align="center">
   <h1>Technology stack</h1>
-  <img src="https://vk.com/video662651788_456239017" />
 </div>
+<div aligh="left">
+  <h3>Python<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/></h3> 
+  <img src="out.gif" width=350, height=200/>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Giggichk&repo=имя_репозитория&theme=tokyonight)](https://github.com/Giggichk/имя_репозитория)
+</div>
+

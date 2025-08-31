@@ -17,10 +17,13 @@
 <div align="center">
   <h1>Technology stack</h1>
 </div>
-<div aligh="left">
-  <h3>Python<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/></h3> 
-  <img src="out.gif" width=350, height=200/>
+<div aligh="center">
+  <img align="left" src="out.gif" width=350, height=200/>
+  <b>
+     &lt;------------ Python 
+  </b><br>
+  <b align="right">
+    --------- Telegram bots ------&gt;
+  </b>
+      <img align="right" src="out1.gif" width=350, height=200 />
 </div>
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Giggichk&repo=TrekerOnTkinder&theme=tokyonight)](https://github.com/Giggichk/TrekerOnTkinder)

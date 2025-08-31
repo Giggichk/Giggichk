@@ -1,4 +1,3 @@
----
 <div id="header" align="center">
   <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c2NHMzNGhhbThwejZkMDAwN2E2cGYwOGk3eGRpN2s5N2w3dzNociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwqrNt7rd9yuj7O/giphy.gif width="100" border="0" vspace="100"/>
 </div>
@@ -12,12 +11,16 @@
 
 Меня увлекает создание удобных и надежных решений на Python — от разработки backend-сервисов до автоматизации и написания Telegram-ботов. В своей работе уделяю внимание структуре кода, оптимизации и читаемости.</p>
 </div>
+
+---
+
 <div align="center">
   <h1>Technology stack</h1>
 </div>
 <div aligh="left">
   <h3>Python<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/></h3> 
   <img src="out.gif" width=350, height=200/>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Giggichk&repo=имя_репозитория&theme=tokyonight)](https://github.com/Giggichk/имя_репозитория)
 </div>
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Giggichk&repo=TrekerOnTkinder&theme=tokyonight)](https://github.com/Giggichk/TrekerOnTkinder)

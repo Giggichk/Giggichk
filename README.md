@@ -14,5 +14,5 @@
 </div>
 <div align="center">
   <h1>Technology stack</h1>
-  <img src="https://otvet.imgsmail.ru/download/76348350_600363415164f6daf0515fedae1fc0e6_800.gif" />
+  <img src="https://vk.com/video662651788_456239017" />
 </div>

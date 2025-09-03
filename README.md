@@ -25,6 +25,9 @@
   <img src="Без названия50_20250903093051.png" width="100"/>
 </div>
 <div align="center">
-  <img src="out1.gif" width=600, height=280 />
+  <img src="out1.gif" width="470", height="250"/>
+</div>
+<div align="center">
+  <img src="out2.gif" width="470", height="250"/>
 </div>
 

@@ -22,6 +22,7 @@
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" />
+  <img src="png-klev-club-p-ikonka-tg-png-3.png" width="100"/>
 </div>
 <div align="center">
   <img src="out1.gif" width=600, height=280 />

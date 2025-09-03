@@ -22,7 +22,7 @@
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" />
-  <img src="photo_2025-09-03_09-28-14.jpg" width="100"/>
+  <img src="Без названия50_20250903093051.png" width="100"/>
 </div>
 <div align="center">
   <img src="out1.gif" width=600, height=280 />

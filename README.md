@@ -19,7 +19,11 @@
 </div>
 <div align="center">
   <img src="out.gif" width=350, height=250/>
+</div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" />
-  <img src="out1.gif" width=600, height=250 />
+</div>
+<div align="center">
+  <img src="out1.gif" width=600, height=280 />
 </div>
 

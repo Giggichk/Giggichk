@@ -18,11 +18,8 @@
   <h1>Technology stack</h1>
 </div>
 <div align="center">
-  <img align="left" src="out.gif" width=350, height=250/>
-      <img align="right" src="out1.gif" width=600, height=250 />
+  <img src="out.gif" width=350, height=250/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" />
+  <img src="out1.gif" width=600, height=250 />
 </div>
-<div align="left">
-  <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" />
-  </div>
-</div>
+

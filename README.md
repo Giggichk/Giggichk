@@ -17,13 +17,12 @@
 <div align="center">
   <h1>Technology stack</h1>
 </div>
-<div aligh="center">
-  <img align="left" src="out.gif" width=350, height=200/>
-  <b>
-     &lt;Python 
-  </b><br>
-  <b align="right">
-    Telegram bot&gt;
-  </b>
-      <img align="right" src="out1.gif" width=350, height=200 />
+<div align="center">
+  <img align="left" src="out.gif" width=350, height=250/>
+      <img align="right" src="out1.gif" width=600, height=250 />
+</div>
+<div align="left">
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" />
+  </div>
 </div>

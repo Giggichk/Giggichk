@@ -30,4 +30,7 @@
 <div align="center">
   <img src="out2.gif" width="470", height="250"/>
 </div>
+<div align="center">
+  <img src="sqlite.png" width="100"/>
+</div>
 

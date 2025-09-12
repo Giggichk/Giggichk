@@ -24,12 +24,17 @@
 </div>
 <div align="left">
   <h2>Back-end</h2>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" />
-    <img src="Без названия50_20250903093051.png" width="100"/>
-    <img src="sqlite.png" width="100"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="75" />
+    <img src="Без названия50_20250903093051.png" width="75"/>
+    <img src="sqlite.png" width="75"/>
 </div>
+<div align="left">  
   <h2>Front-end</h2>
-  <img src="html5.png" width="100"/>
+  <img src="html5.png" width="75"/>
+  <img src="css3.png" width="100"/>
+</div>
+<div>
+  <h2>Tools</h2>
 </div>
 
 

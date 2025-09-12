@@ -1,3 +1,5 @@
+---
+
 <div id="header" align="center">
   <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c2NHMzNGhhbThwejZkMDAwN2E2cGYwOGk3eGRpN2s5N2w3dzNociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwqrNt7rd9yuj7O/giphy.gif width="100" border="0" vspace="100"/>
 </div>
@@ -18,20 +20,16 @@
   <h1>Technology stack</h1>
 </div>
 <div align="center">
-  <img src="out.gif" width=350, height=250/>
+  <img src="out.gif" width=550, height=350/>
 </div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" />
-  <img src="Без названия50_20250903093051.png" width="100"/>
+<div align="left">
+  <h2>Back-end</h2>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" />
+    <img src="Без названия50_20250903093051.png" width="100"/>
+    <img src="sqlite.png" width="100"/>
 </div>
-<div align="center">
-  <img src="out1.gif" width="470", height="250"/>
-</div>
-<div align="center">
-  <img src="out2.gif" width="470", height="250"/>
-</div>
-<div align="center">
-  <img src="sqlite.png" width="100"/>
+  <h2>Front-end</h2>
   <img src="html5.png" width="100"/>
 </div>
+
 

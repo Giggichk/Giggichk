@@ -37,7 +37,7 @@
   <h2>Tools</h2>
   <img src="pycharm.png" width="75"/>
   <img src="git.png" width="75"/>
-  <img src="visualst" width="75"/>
+  <img src="visualst.png" width="75"/>
 </div>
 
 
